@@ -1,0 +1,1 @@
+import{P as e}from"./PageTemplate-60b7d20f.js";import{S as t}from"./SectionTitle-f4d74ad1.js";import{d as o,f as a,w as n,b as s,a as r}from"./index-5b4e5106.js";const l=o({__name:"assessment",setup(c){return(m,p)=>(s(),a(e,{type:"content","api-url":"/system/webContent/5"},{"before-content":n(()=>[r(t,{title:"资产评估","title-en":"ASSET EVALUATION"})]),_:1}))}});export{l as default};

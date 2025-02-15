@@ -1,0 +1,1 @@
+import{P as e}from"./PageTemplate-60b7d20f.js";import{S as t}from"./SectionTitle-f4d74ad1.js";import{d as o,f as a,w as n,b as r,a as s}from"./index-5b4e5106.js";const l=o({__name:"cost",setup(c){return(p,i)=>(r(),a(e,{type:"content","api-url":"/system/webContent/4"},{"before-content":n(()=>[s(t,{title:"工程造价","title-en":"ENGINEERING COST"})]),_:1}))}});export{l as default};
